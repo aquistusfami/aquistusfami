@@ -5,11 +5,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science student at **Hanoi University of Science and Technology (HUST)**
+- 🎓 **2nd Year** Mathematics & Informatics student at **Hanoi University of Science and Technology (HUST)**
 - 🐧 Daily driving **Arch Linux + Hyprland** — btw I use Arch
 - 🔭 Currently working on a **Quiz Grading System** (MI3060 - CTDL&GT)
 - 🌱 Learning **Data Structures & Algorithms**, **Verilog/AHB**, and **Python**
-- ⚡ Fun fact: I rice my desktop more than I sleep
 
 ---
 
@@ -30,7 +29,6 @@
 ## 🚀 Current Projects
 
 - 📝 **[MI3060-Quiz-Grading-System](https://github.com/aquistusfami/MI3060-Quiz-Grading-System)** — Automated multiple choice grading system with custom data structures in Python
-- 🖥️ **Hyprland Dotfiles** — My personal Arch Linux + Hyprland configuration
 - 🔌 **AHB Bus Implementation** — Verilog AHB3-Lite bus design
 
 ---
@@ -48,25 +46,11 @@
 
 ---
 
-## 🐧 My Setup
-
-```yaml
-OS:        Arch Linux
-WM:        Hyprland (Wayland)
-Terminal:  Kitty
-Shell:     Zsh
-Editor:    VS Code + Neovim
-Browser:   Brave
-CPU:       AMD Ryzen 7 PRO 8840HS
-Theme:     JaKooLit Hyprland Dots
-```
-
----
-
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aquistusfami)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the.nv2418988@sis.hust.edu.vn)
+[![Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vanthe06)
 
 ---
 
