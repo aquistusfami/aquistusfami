@@ -29,7 +29,7 @@
 ## 🚀 Current Projects
 
 - 📝 **[MI3060-Quiz-Grading-System](https://github.com/aquistusfami/MI3060-Quiz-Grading-System)** — Automated multiple choice grading system with custom data structures in Python
-- 🔌 **AHB Bus Implementation** — Verilog AHB3-Lite bus design
+- 🔌 **[AHB Bus Implementation](https://github.com/aquistusfami/AMBA-AHB_Verilog)** — Verilog AHB bus design
 
 ---
 
