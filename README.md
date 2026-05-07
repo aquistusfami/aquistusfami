@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **2nd Year** Mathematics & Informatics student at **Hanoi University of Science and Technology (HUST)**
-- 🐧 Daily driving **Arch Linux + Hyprland** — btw I use Arch
+- 🐧 Daily driving **Arch Linux + Sway** — btw I use Arch
 - 🔭 Currently working on a **Quiz Grading System** (MI3060 - CTDL&GT)
 - 🌱 Learning **Data Structures & Algorithms**, **Verilog/AHB**, and **Python**
 
