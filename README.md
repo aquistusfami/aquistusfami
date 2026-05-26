@@ -7,7 +7,7 @@
 
 - 🎓 **2nd Year** Mathematics & Informatics student at **Hanoi University of Science and Technology (HUST)**
 - 🐧 Daily driving **Arch Linux + Sway** — btw I use Arch
-- 🔭 Currently working on a **Quiz Grading System** (MI3060 - CTDL&GT)
+- 🔭 Currently working on a **Quiz Grading System**, **Simulate and design AHB AMBA 2** and **Simple Warehouse Management System**.
 - 🌱 Learning **Data Structures & Algorithms**, **Verilog/AHB**, and **Python**
 
 ---
