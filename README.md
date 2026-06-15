@@ -7,7 +7,6 @@
 
 - **2nd Year** Mathematics & Informatics student at **Hanoi University of Science and Technology (HUST)**
 - **Debian + Xfce** user with a customized-macOS theme.
-- 
 ---
 
 ## Languages & Tools
