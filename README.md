@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/aquistusfami?logo=github&style=for-the-badge)](https://github.com/aquistusfami)
 [![Profile Views](https://komarev.com/ghpvc/?username=aquistusfami&style=for-the-badge&color=blue)](https://github.com/aquistusfami)
 
-## Aboue me
+## About me
 
 - **2nd Year** Mathematics & Informatics student at **Hanoi University of Science and Technology (HUST)**
 - **Debian + Xfce** user with a customized-macOS theme.
