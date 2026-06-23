@@ -6,7 +6,7 @@
 ## About me
 
 - **2nd Year** Mathematics & Informatics student at **Hanoi University of Science and Technology (HUST)**
-- **Debian + Xfce** user with a customized-macOS theme.
+- **Debian + KDE Plamsa** user with a customized-mac-tahoe theme.
 ---
 
 ## Languages & Tools
