@@ -6,7 +6,7 @@
 ## About me
 
 - **2nd Year** Mathematics & Informatics student at **Hanoi University of Science and Technology (HUST)**
-- **Debian + KDE Plamsa** user with a customized-mac-tahoe theme.
+- **Debian + KDE Plasma** user with a customized-mac-tahoe theme.
 ---
 
 ## Languages & Tools
@@ -23,7 +23,7 @@
 
 ---
 
-## Current Projects
+## My Projects
 
 -  **[MI3060-Quiz-Grading-System](https://github.com/aquistusfami/MI3060-Quiz-Grading-System)** — Automated multiple choice grading system with custom data structures in Python
 -  **[AHB Bus Implementation](https://github.com/aquistusfami/AMBA-AHB_Verilog)** — Verilog AHB bus design
